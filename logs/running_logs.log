@@ -1,0 +1,14 @@
+[2023-06-17 10:45:01,145: INFO: prepare_base_model]: 
+********************
+[2023-06-17 10:45:01,146: INFO: prepare_base_model]: >>>>> stage prepare a base model started <<<<<
+[2023-06-17 10:45:01,149: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2023-06-17 10:46:37,495: INFO: common]: created directory at: artifacts\models
+[2023-06-17 10:46:37,558: INFO: prepare_base_model]: base model is saved at artifacts\models\base_model.h5
+[2023-06-17 10:46:37,628: INFO: prepare_base_model]: >>>>> stage prepare a base model completed!<<<<<
+
+[2023-06-17 10:47:53,905: INFO: transfer_learning]: 
+********************
+[2023-06-17 10:47:53,905: INFO: transfer_learning]: >>>>> stage transfer learning started <<<<<
+[2023-06-17 10:47:53,914: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2023-06-17 10:49:38,105: INFO: transfer_learning]: >>>>> stage transfer learning completed!<<<<<
+
